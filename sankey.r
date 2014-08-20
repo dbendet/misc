@@ -1,7 +1,7 @@
 require(rCharts)
 require(rjson)
 
-x = read.csv('/Users/dbendet/Documents/Code/misc/sankey.csv', header=FALSE)
+x = read.csv('sankey.csv', header=FALSE)
 
 colnames(x) <- c("source", "target", "value")
 
