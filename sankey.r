@@ -9,7 +9,6 @@ sankeyPlot <- rCharts$new()
 
 sankeyPlot$set(
   data = x,
-  colour = 'red',
   nodeWidth = 15,
   nodePadding = 10,
   layout = 32,
