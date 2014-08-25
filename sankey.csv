@@ -1,25 +1,25 @@
-one,1end,50
-one,2end,20
-one,3end,10
-one,4end,10
-one,5end ,10
-two,1end,20
-two,2end,50
-two,3end,10
-two,4end,10
-two,5end ,10
-three,1end,10
-three,2end,20
-three,3end,50
-three,4end,10
-three,5end ,10
-four,1end,10
-four,2end,10
-four,3end,10
-four,4end,50
-four,5end ,20
-five,1end,10
-five,2end,10
-five,3end,10
-five,4end,20
-five,5end ,50
+one, one,50
+one, two,20
+one, three,10
+one, four,10
+one, five,10
+two, one,20
+two, two,50
+two, three,10
+two, four,10
+two, five,10
+three, one,10
+three, two,20
+three, three,50
+three, four,10
+three, five,10
+four, one,10
+four, two,10
+four, three,10
+four, four,50
+four, five,20
+five, one,10
+five, two,10
+five, three,10
+five, four,20
+five, five,50
